@@ -1,0 +1,7 @@
+{
+    "name": "DecaDriver",
+    "version": "5.1.0",
+    "description": "Zephyr drivers for the Decawave DWM1001-dev board bundled as a library for PlatformIO.",
+    "frameworks": "zephyr",
+    "platforms": "nordicnrf52"
+}
