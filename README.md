@@ -3,6 +3,7 @@
 Zephyr drivers for the Decawave DWM1001-dev board bundled as a library for PlatformIO.
 
 The source code comes from [Decawave](https://github.com/Decawave) and [RTLOC](https://github.com/RT-LOC) and was taken from this specific [repository](https://github.com/foldedtoad/dwm1001).
+See the source files for details on the copyright.
 
 ## Prerequisites
 
