@@ -12,3 +12,4 @@ There are two things necesary to succesfully build this library with Zephyr and 
 - Platformio does not support the DWM1001 with Zepbyr yet. I worked around this, by taking the board definition from PlatformIO, rename it to `decawave_dwm1001_dev` and adding `"zephyr"` to the `"frameworks"` entry.
   
 Both files can be found in the extra directory.
+Assuming a standard [project layout](https://docs.platformio.org/en/latest/frameworks/zephyr.html) put the `decawave_dwm1001_dev.overlay` file into `zephyr/boards` and `decawave_dwm1001_dev.json` into `boards`.
